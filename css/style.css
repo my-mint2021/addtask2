@@ -192,7 +192,7 @@ body {
   height: 0;
   border-width: 0 0 150px 150px;
   border-color: transparent transparent #ffbf47 transparent;
-  transition: transform .5s ease-in, background .7s ease-in;
+  transition: transform .5s ease-in, border-color .5s ease-in;
 }
 
 .fourth:hover::before {
